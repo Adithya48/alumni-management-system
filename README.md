@@ -34,7 +34,7 @@ This project provides a complete alumni portal that includes:
 | Frontend    | HTML, CSS, JavaScript                   |
 | Backend     | PHP                                     |
 | Database    | MySQL                                   |
-| Tools Used  | XAMPP, VS Code, Git                     |
+| Tools Used  | XAMPP, VS Code                          |
 
 ---
 
