@@ -63,9 +63,3 @@ This project provides a complete alumni portal that includes:
      http://localhost/alumni-management-system/
      ```
 
-Email: adithyavnayak101@gmail.com
-```
-
----
-
-Would you like me to generate this as a downloadable `README.md` file for you now?
