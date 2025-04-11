@@ -67,24 +67,6 @@ This project provides a complete alumni portal that includes:
      http://localhost/alumni-management-system/
      ```
 
----
-
-## 📷 Screenshots
-
-*(Add screenshots of the homepage, login page, event page, etc. here)*
-
----
-
-## 📄 License
-
-This project is for educational purposes only.
-
----
-
-## 📫 Contact
-
-**Adithya V Nayak**  
-[LinkedIn](https://www.linkedin.com/in/adithya-v-nayak-5557b0228)  
 Email: adithyavnayak101@gmail.com
 ```
 
