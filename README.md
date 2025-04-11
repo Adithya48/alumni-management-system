@@ -1,7 +1,3 @@
-Sure! Here's the complete and clean `.md` code for your `README.md` file — ready to copy and paste into GitHub or any text editor:
-
----
-
 ```markdown
 # 🎓 Alumni Management System
 
