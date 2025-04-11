@@ -43,3 +43,10 @@ This project provides a complete alumni portal that includes:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Adithya48/alumni-management-system.git
+
+
+2. **Move the project to your XAMPP htdocs directory:**
+
+ ```bash
+C:/xampp/htdocs/
+
